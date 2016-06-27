@@ -5,6 +5,8 @@
 	<key>content</key>
 	<string>\\
 </string>
+	<key>isDisabled</key>
+	<true/>
 	<key>keyEquivalent</key>
 	<string></string>
 	<key>name</key>
